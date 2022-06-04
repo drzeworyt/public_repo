@@ -1,10 +1,18 @@
 pesel = "76112809756"
 
 year = pesel[0:2]
-month = pesel[2:4]
-day = pesel[4:6]
-
+month = int(pesel[2:4])
+day = int(pesel[4:6])
 gender = pesel[9]
+
+if day > 31:
+    print("poprawny dzięń urodzenia")
+    exit()
+
+if month > 12 % 20:
+    print("niepoprawny miesiac urodzenia")
+    exit()
+print("nr pesel jest ok")
 
 #jakaś kolejna linia kodu
 
