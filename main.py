@@ -6,4 +6,5 @@ day = pesel[4:6]
 
 gender = pesel[9]
 
+#jakaś kolejna linia kodu
 
