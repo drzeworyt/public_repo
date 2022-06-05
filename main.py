@@ -8,3 +8,4 @@ gender = pesel[9]
 
 #jakaś kolejna linia kodu
 
+#zmiana atrakcyjna dla wszystkich branczy
