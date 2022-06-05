@@ -13,6 +13,7 @@ if month > 12 % 20:
     print("niepoprawny miesiac urodzenia")
     exit()
 print("nr pesel jest ok")
+#jescze troche kodu
 
 #jakaś kolejna linia kodu
 
