@@ -6,7 +6,7 @@ day = int(pesel[4:6])
 gender = pesel[9]
 
 if day > 31:
-    print("askfdl;j;alsdkjf")
+    print("poprawny dzięń urodzenia")
     exit()
 
 if month > 12 % 20:
