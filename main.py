@@ -19,3 +19,6 @@ print("nr pesel jest ok")
 
 #zmiana atrakcyjna dla wszystkich branczy
 
+
+#faldfkjlaksjdf
+
